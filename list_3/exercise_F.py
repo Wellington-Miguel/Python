@@ -9,6 +9,10 @@ for index in range(min,max):
         else:
              if (teste==index-1):
                 controller+=1
+print(controller)
+           
+
+            
             
         
         
